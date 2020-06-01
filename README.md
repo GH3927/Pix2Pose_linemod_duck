@@ -2,4 +2,4 @@
 
 We implemented it in Pytorch 1.2.0
 
-paper is here https://arxiv.org/abs/1908.07433
+The paper is here https://arxiv.org/abs/1908.07433
